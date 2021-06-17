@@ -1,0 +1,1 @@
+After starting xampp servers enter this url in the browser localhost/ARS/Homepage.html
